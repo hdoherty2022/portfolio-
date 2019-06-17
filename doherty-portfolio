@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<!--
+Ethereal by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+    <head>
+        <title>Hailey Doherty</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,S initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    </head>
+    <body class="is-preload">
+
+        <!-- Page Wrapper -->
+        <div id="page-wrapper">
+
+            <!-- Wrapper -->
+            <div id="wrapper">
+
+                <!-- Panel (Banner) -->
+                <section class="panel banner right">
+                    <div class="content color0 span-3-75">
+                        <h1 class="major">hailey doherty</h1>
+                        <p>“i can’t do it” never yet accomplished anything – “i will try” has performed miracles.</p>
+                        <ul class="actions">
+                            <li><a href="#first" class="button primary color1 circle icon fa-angle-right">Next</a></li>
+                        </ul>
+                    </div>
+                    <div class="image filtered span-1-75" data-position="25% 25%">
+                        <img src="images/pic01.jpg" alt="" />
+                    </div>
+                </section>
+
+                <!-- Panel (Spotlight) -->
+                <section class="panel spotlight medium right" id="first">
+                    <div class="content span-7">
+                        <h2 class="major">hobbies</h2>
+                        <p>i first got started with playing guitar, when i was around 10 years old. my uncle bought me my first guitar, a red squier mini stratocaster. He is also a guitar player, and a drummer but he is amazing, and a lot better than me. it is probably one of my favorite hobbies i have. i like playing the acoustic guitar better than the electric because its more relaxing and soothing to play.</p>
+                    </div>
+                    <div class="image filtered tinted" data-position="top left">
+                        <img src="images/guitar.jpg" alt="guitar">
+                    </div>
+                </section>
+               
+
+                <section class="panel spotlight medium right" id="first">
+                    <div class="content span-7">
+                        <h2 class="major">sports</h2>
+                        <p>i have played many sports in my life. i have danced since the age of 2, but i had to quit this year for high school sports. i started playing lacrosse and field hockey in 6th grade, and it was probably one of the best decisions ever. i love those two sports and i met my two best friends. i had field hockey tryouts for my high school this fall (i am a freshman) and they were actually really fun. i made varsity with my two friends lily and olivia. that was so amazing, and an amazing opportunity. in the winter i played JV basketball, and JV lacrosse. i also play indoor field hockey, for seacoast united, and lacrosse, for twisters. </p>
+                    </div>
+                    <div class="image filtered tinted" data-position="top left">
+                        <img src="images/sideline.jpg" alt="guitar">
+                    </div>
+                </section>
+                 
+                <!-- Panel (Spotlight) -->
+                <section class="panel spotlight large left">
+                    <div class="content span-5">
+                        <h2 class="major">after college</h2>
+                        <p>when i get older i hope to go on a cross- country road trip with all of my close friends, and to travel the world to all different countries. The one country that i really want to travel to is greece. My family is greek, and my uncle has gone multiple times, which i am very jealous of.  </p>
+                    </div>
+                    <!-- The video -->
+                    <video autoplay muted loop id="myVideo">
+                        <source src="images/plane.mp4" type="video/mp4">
+                    </video>
+                </section>
+
+
+
+              
+                <!-- Panel -->
+                <section class="panel">
+                    <div class="intro color2">
+                        <h2 class="major">what i love</h2>
+                        <p>i also just love nature in general. things like going to the beach, or a lake, hiking, biking, and anything like that i love. i love looking at landscapes, and beautiful views. i love being adventurous and doing many things like jumping off a cliff into water, and swimming with sharks</p>
+                    </div>
+                    <div class="gallery">
+                        <div class="group span-3">
+                            <a href="images/fog-foggy-lake-2166711.jpg" class="image filtered span-3" data-position="bottom"><img src="images/fog-foggy-lake-2166711.jpg" alt="" /></a>
+                            <a href="images/beautiful-calm-waters-horizon-2091351.jpg" class="image filtered span-1-5" data-position="center"><img src="images/beautiful-calm-waters-horizon-2091351.jpg" alt="" /></a>
+                            <a href="images/abandoned-forest-hd-wallpaper-34950.jpg" class="image filtered span-1-5" data-position="bottom"><img src="images/abandoned-forest-hd-wallpaper-34950.jpg" alt="" /></a>
+                        </div>
+                        <a href="images/4k-wallpaper-desktop-wallpaper-forest-2217365.jpg" class="image filtered span-2-5" data-position="top"><img src="images/4k-wallpaper-desktop-wallpaper-forest-2217365.jpg" alt="" /></a>
+                        <div class="group span-4-5">
+                            <a href="images/IMG_9124.jpg" class="image filtered span-3" data-position="top"><img src="images/IMG_9124.jpg" alt="" /></a>
+                            <a href="images/D579F012-BB49-4112-BBEC-807B0F9FF336.JPG" class="image filtered span-1-5" data-position="center"><img src="images/D579F012-BB49-4112-BBEC-807B0F9FF336.JPG"alt="" /></a>
+                            <a href="images/IMG_9974.jpg"class="image filtered span-1-5" data-position="bottom"><img src="images/IMG_9974.jpg" alt="" /></a>
+                            <a href="images/IMG_9360.jpg" class="image filtered span-3" data-position="top"><img src="images/IMG_9360.jpg" alt="" /></a>
+                        </div>
+                        <a href="images/IMG_8151.jpg" class="image filtered span-2-5" data-position="right"><img src="images/IMG_8151.jpg" alt="" /></a>
+                    </div>
+                </section>
+
+         
+
+                          
+
+
+            </div>
+
+        </div>
+
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/main.js"></script>
+        <script src="assets/css/style.css"></script>
+        <script src="assets/js/script.js"></script>
+        
+
+    </body>
+</html>
